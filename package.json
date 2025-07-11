@@ -4,12 +4,10 @@
   "version": "0.0.0",
   "private": true,
   "repository": "twbs/examples",
-  "license": "MIT"
-}
-  {
-  // ...existing code...
+  "license": "MIT",
+
+  
   "scripts": {
     "dev": "astro dev"
   }
-  // ...existing code...
 }
