@@ -4,7 +4,12 @@
   "version": "0.0.0",
   "private": true,
   "repository": "twbs/examples",
-  "license": "MIT",
-  "dev": "astro.js"
+  "license": "MIT"
 }
-  
+  {
+  // ...existing code...
+  "scripts": {
+    "dev": "astro dev"
+  }
+  // ...existing code...
+}
