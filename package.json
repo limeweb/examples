@@ -5,6 +5,6 @@
   "private": true,
   "repository": "twbs/examples",
   "license": "MIT",
-  "dev": "node index.js"
+  "dev": "astro.js"
 }
   
